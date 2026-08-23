@@ -3,7 +3,6 @@
 
 A Flappy Bird Clone made using [python-pygame][pygame]
 
-> If you are in interested in the old one-file code for the game, you can [find it here][one-file-game]
 
 [pygame]: http://www.pygame.org
 [one-file-game]: https://github.com/arpitjain985/FlapPyBird/blob/038359dc6122f8d851e816ddb3e7d28229d585e5/flappy.py
