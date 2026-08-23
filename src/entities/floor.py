@@ -14,3 +14,4 @@ class Floor(Entity):
     def draw(self) -> None:
         self.x = -((-self.x + self.vel_x) % self.x_extra)
         super().draw()
+        
