@@ -26,3 +26,4 @@ format:
 
 lint:
 	flake8 --config=../.flake8 --output-file=./coverage/flake8-report --format=default
+
