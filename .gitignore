@@ -9,5 +9,6 @@ __pycache__/
 .venv/
 venv/
 .env
+env/
 .vscode/
 .pytest_cache/
